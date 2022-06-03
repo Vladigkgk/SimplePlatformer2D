@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1abde4d9b6b92e429f319f7a2c37b3b, type: 3}
+  m_Name: Perks
+  m_EditorClassIdentifier: 
+  _collection:
+  - _id: Flying
+    _icon: {fileID: 21300000, guid: fa78c4671886894499c04da73ebeabda, type: 3}
+    _info: info_flying
+    _price:
+      _itemId: Coin
+      _count: 50
+    _coolDawn: 3
+  - _id: Sword-Super-Throw
+    _icon: {fileID: 21300000, guid: 09c89204793b7444e861be0b7a70e40b, type: 3}
+    _info: info_sword_super_throw
+    _price:
+      _itemId: Coin
+      _count: 5
+    _coolDawn: 3
+  - _id: Shield
+    _icon: {fileID: 21300000, guid: 161885f6dd78ed24baed68bf6325b256, type: 3}
+    _info: info_shield
+    _price:
+      _itemId: Coin
+      _count: 20
+    _coolDawn: 10

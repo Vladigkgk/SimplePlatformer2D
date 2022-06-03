@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04feb2a86c474ceca8d7978ac06ab306, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  _url: https://docs.google.com/spreadsheets/d/e/2PACX-1vR6T83xQvVYbX1IR59e3fjNXxYY_kZuiX3-ECSHdWPa2vhUx8b6ONiHAhS5hDOXBQTx4jIztCKBA7cd/pub?gid=0&single=true&output=tsv
+  _localeItems:
+  - Key: menu_title
+    Value: "Main Menu\r"
+  - Key: button_start
+    Value: "Start\r"
+  - Key: button_option
+    Value: "Option\r"
+  - Key: button_exit
+    Value: "Exit\r"
+  - Key: selected_language
+    Value: "Selected Landuage: {0}\r"
+  - Key: button_selected
+    Value: "Language\r"
+  - Key: language_title
+    Value: "Language\r"
+  - Key: text_music
+    Value: "Music\r"
+  - Key: pause_title
+    Value: "Pause\r"
+  - Key: button_countinue
+    Value: "Countinue\r"
+  - Key: button_reload
+    Value: "Reload level\r"
+  - Key: dialog_countinue
+    Value: "Countinue...\r"
+  - Key: Crabby_GetGreenGem_1
+    Value: "Get me a Green Gem...\r"
+  - Key: Crabby_GetGreenGem_2
+    Value: "And I will show you The mirecle!\r"
+  - Key: Crabby_GetGreenGem_3
+    Value: "Yes!!!\r"
+  - Key: Crabby_GetGreenGem_4
+    Value: "I quickly\r"
+  - Key: Crabby_GemObtain_1
+    Value: "And now The Mirecle! \r"
+  - Key: Crabby_GemObtain_2
+    Value: "I have a Gem\r"
+  - Key: Crabby_GemObtain_3
+    Value: "And are you not\r"
+  - Key: Crabby_GemObtain_4
+    Value: "Ahahahah!\r"
+  - Key: Crabby_GemObtain_5
+    Value: "*&$%#*\r"
+  - Key: dialog_door_exit_1
+    Value: "You need key...\r"
+  - Key: dialog_door_exit_2
+    Value: "Look higher\r"
+  - Key: button_Upgrade
+    Value: "Upgrade\r"
+  - Key: text_price
+    Value: "Price:\r"
+  - Key: stat_health
+    Value: "Health\r"
+  - Key: stat_speed
+    Value: "Speed\r"
+  - Key: stat_range_damage
+    Value: "Range Damage\r"
+  - Key: info_flying
+    Value: "This is Flying!!! Press W and You can fly\r"
+  - Key: info_sword_super_throw
+    Value: "This is Super Throw Sword!!! Hold the throw button for 1 second and you
+      can throw 3 swords at once\r"
+  - Key: info_shield
+    Value: "This is Shield!!! Press G and for 5 seconds you will not take damage\r"
+  - Key: button_buy
+    Value: "Buy\r"
+  - Key: button_use
+    Value: "Use\r"
+  - Key: LoadScene_text
+    Value: "Loading...\r"
+  - Key: stat_melee_attack_critical
+    Value: "Critical Damage\r"
+  - Key: StartDialogWithBoss0
+    Value: "I wil kill You!!!\r"
+  - Key: StartDialogWithBoss1
+    Value: "No! I will kill You!!!\r"
+  - Key: EndDialogWithBoss0
+    Value: "NOOOOOOO!!!\r"
+  - Key: EndDialogWithBoss1
+    Value: I told You!!!

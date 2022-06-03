@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CheckPoint
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 130b5c66e3e671c4e882ecaae492bcd7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2681c2925ab22b845afbaf0b8a702e4e, type: 3}
+  - {fileID: 21300000, guid: e0fb67a20b5f77946bf14178668d062f, type: 3}
+  - {fileID: 21300000, guid: d69eee7332b1d9d4b92f0851eaedde17, type: 3}
+  - {fileID: 21300000, guid: 5c4d264609a56be45828fa4c71908772, type: 3}
+  - {fileID: 21300000, guid: e06f0a56da381f74d8bbb9aeff58d963, type: 3}
+  - {fileID: 21300000, guid: e286d648cc356514099d07c804ac3426, type: 3}
+  - {fileID: 21300000, guid: d196ffa8d6d83a545902ed94335cf671, type: 3}
+  - {fileID: 21300000, guid: 613f8db9c159dec408ab1df5c0d3f6ee, type: 3}
+  - {fileID: 21300000, guid: f1d5dd2a6bbd0f54a885e3c70ff272af, type: 3}
+  - {fileID: 21300000, guid: bea8fe2bc7dd35c4a92c1af107496b2d, type: 3}
+  - {fileID: 21300000, guid: 75bfe50cd59232f489f7b78c7f5dd7f0, type: 3}
+  - {fileID: 21300000, guid: 8c0c5c4ce6315984fa8539faa22189e3, type: 3}
+  - {fileID: 21300000, guid: 1703e4ada1cefa243904b763ae0e6e60, type: 3}
+  - {fileID: 21300000, guid: 8b2995fd37e0c8a458ab268b3a29cc9a, type: 3}
+  - {fileID: 21300000, guid: 7de0691ec9d8c8c43887e2b4569d2fac, type: 3}
+  - {fileID: 21300000, guid: 95b8de7e34cf8a445be05e1715140e87, type: 3}
+  - {fileID: 21300000, guid: efbaa93fd1f914047a4e5b522eca3e52, type: 3}
+  - {fileID: 21300000, guid: a8e7358f51d9d2640997b7062f88364c, type: 3}
+  - {fileID: 21300000, guid: f7d69eefe9f14b8459b05c1f37bb3727, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - platform
+  - 4
+  - 3
+  - 2
+  - 1
+  - 2
+  - 2
+  - 1
+  - 4
+  - 1
+  - 3
+  - 3
+  - 7
+  - 6
+  - 3
+  - 1
+  - 5
+  - 2
+  - 8
+  m_RenderDataMap: {}
+  m_Tag: CheckPoint
+  m_IsVariant: 0
